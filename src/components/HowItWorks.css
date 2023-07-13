@@ -1,0 +1,90 @@
+*{
+    font-family: 'PT Sans', sans-serif;
+}
+.web{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.Heading{
+    font-size: 28px;
+    color: black;
+    font-family: 'PT Sans';
+    margin-top: 0px;
+    margin-bottom: 28px;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    width: 440px;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+
+.how-button{
+    width: 200px;
+    height: 40px;
+    font-size: 14px;
+    font-weight: 700;
+    color: black;
+    background-color: #fbdc00;
+    border-radius: 20px;
+    border: none;
+}
+
+#second{
+    background-color: #e5dfdf;
+}
+
+.container {
+    height: 605px;
+    width: 1160px;
+    margin-inline: 40px;
+    padding-inline: 16px;
+    display: flex;
+    position: relative;
+    margin-bottom: 50px;
+    /* box-sizing: border-box; */
+    /* justify-content: space-between; */
+}
+
+.left-top{
+    position: absolute;
+    left: 316px;
+    top: 100px;
+}
+
+.left-bottom{
+    position: absolute;
+    left: 316px;
+    bottom: 124px;
+}
+
+.laptop{
+    align-self: center;
+}
+
+.right-top{
+    position: absolute;
+    right: 316px;
+    top: 100px;
+}
+
+.right-bottom{
+    position: absolute;
+    right: 316px;
+    bottom: 124px;
+}
+
+.left-container,
+.right-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
