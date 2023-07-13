@@ -1,17 +1,19 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
+import React from "react";
+import ReactDOM from "react-dom/client";
 
 import "./index.css";
 
-import MarqueeCompanies from './components/MarqueeCompanies';
-import HowItWorks from './components/HowItWorks';
-import NextLevel from './components/NextLevel';
+import TrustedBy from "./components/TrustedBy";
+import NextLevel from "./components/NextLevel";
+import HowItWorks from "./components/HowItWorks";
+import IndustriesServed from "./components/IndustriesServed";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <>
-  <MarqueeCompanies/>
-  <NextLevel />
-  <HowItWorks/>
+    <TrustedBy />
+    <NextLevel />
+    <HowItWorks />
+    <IndustriesServed />
   </>
 );
