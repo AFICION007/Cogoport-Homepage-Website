@@ -12,6 +12,7 @@ import NextLevel from "./components/NextLevel";
 import HowItWorks from "./components/HowItWorks";
 import IndustriesServed from "./components/IndustriesServed";
 import GetStarted from "./components/GetStarted";
+import PlayVideo from "./components/PlayVideo";
 import GrowFaster from "./components/GrowFaster";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
@@ -26,6 +27,7 @@ root.render(
     <HowItWorks />
     <IndustriesServed />
     <GetStarted />
+    <PlayVideo />
     <GrowFaster />
   </>
 );

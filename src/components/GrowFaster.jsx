@@ -1,6 +1,6 @@
 import React from "react";
 import "./GrowFaster.css";
-import ArrowButton from "../buttons/ArrowButton";
+import ArrowButton from "../helper functions/ArrowButton";
 
 const GrowFaster = () => {
   return (

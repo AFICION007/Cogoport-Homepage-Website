@@ -1,6 +1,6 @@
 import React from "react";
 import "./HowItWorks.css";
-import HowItWorksBox from "./HowItWorksBox";
+import HowItWorksBox from "../helper functions/HowItWorksBox";
 
 const arr = [
   {
