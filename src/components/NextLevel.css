@@ -17,17 +17,3 @@
     font-weight: 900;
     margin: 0;
 }
-
-.next-level-button{
-    font-family: 'PT Sans', sans-serif;
-    display: flex;
-    align-items: center;
-    background-color: #ee3425;
-    color: white;
-    border: none;
-    height: 36px;
-    font-weight: bold;
-    border-radius: 4px;
-    padding: 4px 16px;
-    font-size: 14px;
-}

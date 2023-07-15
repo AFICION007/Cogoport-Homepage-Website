@@ -1,0 +1,14 @@
+.standard-button {
+    height: 40px;
+    width: fit-content;
+    padding-inline: 42px;
+    padding-block: 8px;
+    background-color: #ee3425;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 9px;
+    display: inline-block;
+    text-align: center;
+    border: none;
+}

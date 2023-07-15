@@ -11,6 +11,8 @@ import TrustedBy from "./components/TrustedBy";
 import NextLevel from "./components/NextLevel";
 import HowItWorks from "./components/HowItWorks";
 import IndustriesServed from "./components/IndustriesServed";
+import GetStarted from "./components/GetStarted";
+import GrowFaster from "./components/GrowFaster";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -23,7 +25,7 @@ root.render(
     <NextLevel />
     <HowItWorks />
     <IndustriesServed />
+    <GetStarted />
+    <GrowFaster />
   </>
-  // <>
-  // </>
 );

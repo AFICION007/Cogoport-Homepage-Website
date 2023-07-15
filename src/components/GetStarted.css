@@ -1,0 +1,42 @@
+.get-started-main-container {
+    height: 360px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-inline: 100px;
+    padding-block: 16px;
+    margin-inline: 40px;
+    margin-bottom: 50px;
+}
+
+.get-started-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.get-started-heading {
+    font-size: 40px;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.get-started-subheading {
+    margin: 0;
+    margin-bottom: 1em;
+}
+
+.get-started-second-span {
+    margin-bottom: 20px;
+
+}
+
+.get-started-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.get-started-floating-image {
+    width: 280px;
+}

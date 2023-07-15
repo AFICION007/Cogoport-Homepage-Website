@@ -1,0 +1,31 @@
+.grow-faster-main-container {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    height: 170px;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 56px;
+    padding-block: 16px;
+    background-color: #ee3425;
+}
+
+.grow-faster-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.grow-faster-heading {
+    color: white;
+    font-size: 28px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.grow-faster-subheading {
+    color: white;
+    font-size: 16px;
+    margin: 0;
+    margin-bottom: 16px;
+}
