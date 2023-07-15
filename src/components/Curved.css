@@ -1,0 +1,12 @@
+.curved-main-container {
+    background-color: #fffef2;
+}
+
+.curved {
+    width: 100%;
+    height: 100px;
+    background-color: #fff;
+    border-radius: 18px;
+    border-bottom-right-radius: 100% 150%;
+    border-bottom-left-radius: 100% 150%;
+}

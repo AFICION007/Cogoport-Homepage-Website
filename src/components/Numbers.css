@@ -1,0 +1,27 @@
+.numbers-main-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-inline: 16px;
+    padding-block: 56px;
+    margin-inline: 40px;
+}
+
+.numbers-subcontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.numbers-number {
+    color: #ee3425;
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.numbers-text {
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
