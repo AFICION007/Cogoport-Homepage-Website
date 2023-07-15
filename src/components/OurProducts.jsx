@@ -1712,7 +1712,9 @@ const OurProducts = () => {
       <h3 className="our-products-heading">Our Products</h3>
       {prodArr.map(({ heading, endtoendArr }) => (
         <div className="our-products-subcontainer">
-          <div className="our-products-subheading">{heading}</div>
+          <div className="our-products-subheading">
+            <h4>{heading}</h4>
+          </div>
           <div className="our-products-components-container">
             {endtoendArr.map(({ Svg, alt }) => (
               <div className="our-products-component">

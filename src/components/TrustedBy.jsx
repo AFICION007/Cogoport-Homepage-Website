@@ -18,7 +18,7 @@ const compArr = ["https://www.cogoport.com/_next/image?url=https%3A%2F%2Fcdn.cog
 function MarqueeCompanies() {
   return (
     <div className='trust'>
-        <h2 className='trust-head'>Trusted by</h2>
+        <h3 className='trust-head'>Trusted by</h3>
         <div className="companies">
             {compArr.map((company) =>(
                 <img className="comp-logo" width="146px" height="73px" src={company} />

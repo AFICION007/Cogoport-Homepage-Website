@@ -4,9 +4,9 @@ import './NextLevel.css';
 const NextLevel = () => {
   return (
     <div className="next-level-container">
-      <h1 className="next-level-heading">
+      <h3 className="next-level-heading">
         Ready to take your Supply Chain to the Next Level?
-      </h1>
+      </h3>
       <button className="next-level-button">
         Get Started
         <div className="next-level-svg-container">

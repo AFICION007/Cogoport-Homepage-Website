@@ -1,7 +1,3 @@
-*{
-    font-family: 'PT Sans', sans-serif;
-}
-
 .main-container{
     margin-bottom: 20px;
     padding: 16px;
@@ -9,6 +5,7 @@
     box-sizing: border-box;
     border-radius: 10px;
     box-shadow: 0 1px 6px rgba(169,188,218,.65);
+    font-family: 'PT Sans', sans-serif;
 }
 
 .stage{

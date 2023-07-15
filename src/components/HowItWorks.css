@@ -1,6 +1,3 @@
-*{
-    font-family: 'PT Sans', sans-serif;
-}
 .web{
     display: flex;
     flex-direction: column;
@@ -12,7 +9,6 @@
 .Heading{
     font-size: 28px;
     color: black;
-    font-family: 'PT Sans';
     margin-top: 0px;
     margin-bottom: 28px;
     font-weight: bolder;
