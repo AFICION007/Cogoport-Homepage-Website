@@ -14,6 +14,7 @@ import IndustriesServed from "./components/IndustriesServed";
 import GetStarted from "./components/GetStarted";
 import PlayVideo from "./components/PlayVideo";
 import GrowFaster from "./components/GrowFaster";
+import Blogs from "./components/Blogs";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -29,5 +30,6 @@ root.render(
     <GetStarted />
     <PlayVideo />
     <GrowFaster />
+    <Blogs />
   </>
 );

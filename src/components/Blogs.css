@@ -1,0 +1,30 @@
+.blogs-main-container {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    margin-inline: 30px;
+}
+
+.blogs-heading {
+    font-size: 28px;
+    line-height: 1.2;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+.blogs-blogs {
+    display: flex;
+    flex-direction: row;
+}
+
+.blogs-bottom-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blogs-button {
+    height: 36px;
+    border-radius: 4px;
+}

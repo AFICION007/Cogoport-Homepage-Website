@@ -1,0 +1,18 @@
+.text-arrow-container {
+    margin: 10px;
+    margin-bottom: 0;
+    color: #ee3425;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    font-size: 14px;
+    height: 21px;
+    font-weight: 700;
+}
+
+.text-arrow-arrow {
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
