@@ -1,5 +1,5 @@
 import React from "react";
-import "./Curved.css";
+import "./css/Curved.css";
 
 const Curved = () => {
   return (

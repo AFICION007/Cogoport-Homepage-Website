@@ -1,7 +1,7 @@
 import React from "react";
 import BlogBox from "../helper functions/BlogBox";
 import StandardButton from "../helper functions/StandardButton";
-import "./Blogs.css";
+import "./css/Blogs.css";
 
 const blogsArr = [
   {

@@ -1,5 +1,5 @@
 import React from "react";
-import "./IndustriesServed.css";
+import "./css/IndustriesServed.css";
 
 const indusArr = [
   {

@@ -1,5 +1,5 @@
 import React from "react";
-import "./OneStop.css";
+import "./css/OneStop.css";
 
 const OneStop = () => {
   return (

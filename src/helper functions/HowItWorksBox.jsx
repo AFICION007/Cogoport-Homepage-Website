@@ -1,5 +1,5 @@
 import React from "react";
-import "./HowItWorksBox.css";
+import "./css/HowItWorksBox.css";
 
 export default function HowItWorksBox({ SVG, id, head, textArr }) {
   return (

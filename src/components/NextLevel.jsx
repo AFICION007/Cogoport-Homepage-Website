@@ -1,5 +1,5 @@
 import React from "react";
-import './NextLevel.css';
+import './css/NextLevel.css';
 import ArrowButton from "../helper functions/ArrowButton";
 
 const NextLevel = () => {

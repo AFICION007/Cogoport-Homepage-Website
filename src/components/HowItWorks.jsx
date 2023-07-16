@@ -1,5 +1,5 @@
 import React from "react";
-import "./HowItWorks.css";
+import "./css/HowItWorks.css";
 import HowItWorksBox from "../helper functions/HowItWorksBox";
 
 const arr = [

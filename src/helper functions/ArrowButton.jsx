@@ -1,5 +1,5 @@
 import React from "react";
-import "./ArrowButton.css";
+import "./css/ArrowButton.css";
 
 const ArrowButton = ({ text, fontColor, backgroundColor }) => {
   return (

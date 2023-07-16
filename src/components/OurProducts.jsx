@@ -1,5 +1,5 @@
 import React from "react";
-import "./OurProducts.css";
+import "./css/OurProducts.css";
 import TextArrow from "../helper functions/TextArrow";
 
 const endtoendArr1 = [

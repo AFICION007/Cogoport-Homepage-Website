@@ -1,5 +1,5 @@
 import React from "react";
-import "./TextArrow.css";
+import "./css/TextArrow.css";
 
 const TextArrow = ({ text, className }) => {
   return (

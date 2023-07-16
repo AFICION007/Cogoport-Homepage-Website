@@ -1,5 +1,5 @@
 import React from "react";
-import "./GetStarted.css";
+import "./css/GetStarted.css";
 import StandardButton from "../helper functions/StandardButton";
 
 const GetStarted = () => {

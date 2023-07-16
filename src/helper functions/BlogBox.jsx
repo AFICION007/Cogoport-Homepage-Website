@@ -1,5 +1,5 @@
 import React from "react";
-import "./BlogBox.css";
+import "./css/BlogBox.css";
 import TextArrow from "./TextArrow";
 
 const BlogBox = ({ imageSrc, topText, heading, content, date }) => {

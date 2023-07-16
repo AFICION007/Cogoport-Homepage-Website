@@ -1,5 +1,5 @@
 import React from "react";
-import "./StandardButton.css";
+import "./css/StandardButton.css";
 
 const StandardButton = ({ text, className }) => {
   return <button className={`standard-button ${className}`}>{text}</button>;
