@@ -15,6 +15,7 @@ import GetStarted from "./components/GetStarted";
 import PlayVideo from "./components/PlayVideo";
 import GrowFaster from "./components/GrowFaster";
 import Blogs from "./components/Blogs";
+import NewsLetter from "./components/NewsLetter";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -31,5 +32,7 @@ root.render(
     <PlayVideo />
     <GrowFaster />
     <Blogs />
+    <Curved borderBottomRadius={"100%"} color={"#fbdc00"} />
+    <NewsLetter />
   </>
 );
