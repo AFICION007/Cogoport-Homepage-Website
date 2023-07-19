@@ -1,0 +1,47 @@
+.go-global-main-container {
+    padding-inline: 56px;
+    padding-block: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-image: url(https://cdn.cogoport.io/cms-prod/cogo_public/vault/original/home-banner-background-1.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: bottom;
+    background-color: #fbdc00;
+    height: 392px;
+    overflow: visible;
+}
+
+.go-global-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.go-global-heading {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    line-height: 1.2;
+}
+
+.go-global-subheading {
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #434343;
+}
+
+.go-global-top-text {
+    font-family: 'PT Sans', sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.go-global-right {
+    height: 400px;
+    overflow: visible;
+    padding-top: 31px;
+}

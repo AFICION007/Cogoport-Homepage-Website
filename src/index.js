@@ -3,6 +3,7 @@ import ReactDOM from "react-dom/client";
 
 import "./index.css";
 
+import GoGlobal from "./components/GoGlobal";
 import Numbers from "./components/Numbers";
 import Curved from "./components/Curved";
 import OneStop from "./components/OneStop";
@@ -19,20 +20,21 @@ import NewsLetter from "./components/NewsLetter";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <>
-    <Numbers />
-    <Curved />
-    <OneStop />
-    <OurProducts />
-    <TrustedBy />
-    <NextLevel />
-    <HowItWorks />
-    <IndustriesServed />
-    <GetStarted />
-    <PlayVideo />
-    <GrowFaster />
-    <Blogs />
-    <Curved borderBottomRadius={"100%"} color={"#fbdc00"} />
-    <NewsLetter />
-  </>
+    <>
+        <GoGlobal />
+        <Numbers />
+        <Curved />
+        <OneStop />
+        <OurProducts />
+        <TrustedBy />
+        <NextLevel />
+        <HowItWorks />
+        <IndustriesServed />
+        <GetStarted />
+        <PlayVideo />
+        <GrowFaster />
+        <Blogs />
+        <Curved borderBottomRadius={"100%"} color={"#fbdc00"} />
+        <NewsLetter />
+    </>
 );
